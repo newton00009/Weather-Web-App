@@ -39,7 +39,7 @@ header a {
 }
 .potrait {
 
-    width: 250px;
+    width: 150px;
 }
 
 input {
@@ -54,4 +54,50 @@ button {
    background: #888888;
    color: white;
    padding: 8px;
+}
+
+.div1title {
+    margin-top: 8px;
+    float:left;
+    margin-right: 8px;
+}
+.div1 {
+    margin-top: 8px;
+    font-weight:normal;
+    
+   
+}
+.div2title {
+    margin-top: 8px;
+    float:left;
+    margin-right: 8px;
+}
+.div2 {
+    margin-top: 8px;
+    font-weight:normal;
+}
+.div3title {
+    margin-top: 8px;
+    float:left;
+    margin-right: 8px;
+}
+.div3 {
+    margin-top: 8px;
+    font-weight:normal;
+}
+.div4title {
+    margin-top: 8px;
+    float:left;
+    margin-right: 8px;
+}
+.div4 {
+    margin-top: 8px;
+    font-weight:normal;
+}
+
+.divimg {
+   
+    float:left;
+    margin-right: 32px;
+
 }
